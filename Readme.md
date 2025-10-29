@@ -26,6 +26,8 @@ this is the recipt model that will be generated
 
 <img width="891" height="782" alt="image" src="https://github.com/user-attachments/assets/110ba828-0f52-40c8-94f9-625a21425fcd" />
 
-
+video of the demo
+    https://www.loom.com/embed/6b7f58252bda4fe199526b7623a63773
+    
 
 
